@@ -1,0 +1,2 @@
+<mongodb://139.59.214.28:27017> <mongodb://139.59.214.28:27017/lg> <mongodb://139.59.214.28:27017/le> <mongodb://139.59.214.28:27017/eq> <mongodb://139.59.214.28:27017/neq> <mongodb://139.59.214.28:27017/in> <mongodb://139.59.214.28:27017/is> <mongodb://139.59.214.28:27017/belong> .
+<file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl> <file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl/name> <file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl/type> .

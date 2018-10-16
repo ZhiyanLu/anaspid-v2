@@ -1,0 +1,8 @@
+PREFIX db: <mongodb://139.59.214.28:27017/>
+PREFIX meta: <file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl/>
+
+SELECT ?a WHERE {
+    ?a meta:name "TIME"
+} && WHERE {
+?a db:lg "24700" .
+}
